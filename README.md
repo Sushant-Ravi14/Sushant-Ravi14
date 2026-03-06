@@ -22,6 +22,7 @@
   </div>
   <img align="right" src="https://raw.githubusercontent.com/nagasai70/nagasai70/main/developer.gif" alt="Coding Animation" width="400" />
 </div>
+---
 <br><br>
 
 <h3 align="center">🚀 Languages and Tools:</h3>
