@@ -13,11 +13,7 @@
   <div>
     <ul>
       <li>🔭 I’m currently learning <strong>MERN Stack</strong></li>
-      <li>🌱 I’m currently working on <strong>MERN Stack</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>PORTFOLIO</strong></li>
-      <li>💬 Ask me about anything related to <strong>MERN</strong></li>
-      <li>📫 How to reach me: <strong>[Your Email Here]</strong></li>
-      <li>⚡ Fun fact: <strong>I am a creative person and I love My Country !</strong></li>
+      <li>📫 How to reach me: <strong>sushant.ravi.cg@gmail.com</strong></li>
     </ul>
   </div>
   <img align="right" src="https://raw.githubusercontent.com/nagasai70/nagasai70/main/developer.gif" alt="Coding Animation" width="400" />
