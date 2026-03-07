@@ -57,14 +57,14 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-trophies.vercel.app/?username=Sushant-Ravi14&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-readme-trophies.vercel.app/?username=Sushant-Ravi14&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
   </a>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sushant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&v=1" alt="Sushant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </div>
 <br>
 
