@@ -10,7 +10,7 @@
       <li>🌱 I’m currently learning <strong>MERN stack and C++</strong>.</li>
       <li>🔭 I’m currently building <strong>Expenza</strong> and a secure local chatting app.</li>
       <li>🐍 I also enjoy working with <strong>Python</strong> for things like face recognition apps.</li>
-      <li>📫 How to reach me: <strong>[Your Email Here]</strong></li>
+      <li>📫 How to reach me: <strong><a href="mailto:sushant.ravi.cg@gmail.com">sushant.ravi.cg@gmail.com</a></strong></li>
       <li>⚡ Fun fact: Outside of coding, I'm currently learning <strong>French! 🇫🇷</strong></li>
     </ul>
   </div>
