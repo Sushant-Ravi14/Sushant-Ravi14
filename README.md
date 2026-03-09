@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0D1117&height=200&section=header&text=Sushant%20Ravi&fontSize=70&animation=fadeIn&fontColor=00E5FF" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0D1117&height=200&section=header&text=Sushant-Ravi&fontSize=70&animation=fadeIn&fontColor=00E5FF" alt="Header Banner" />
 </p>
 
 <h1 align="center">
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub & LeetCode Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Ravi14&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
 </p>
@@ -55,6 +55,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Sushant-Ravi?theme=radical&font=syne&ext=heatmap" alt="Sushant's LeetCode Stats" />
 </div>
 
 <p align="center">
