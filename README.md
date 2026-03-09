@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:ff00ff,100:ffff00&height=220&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0D1117&height=200&section=header&text=Sushant%20Ravi&fontSize=70&animation=fadeIn&fontColor=00E5FF" alt="Header Banner" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Professional;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Professional;Creative+Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 ---
@@ -49,26 +49,27 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Ravi14&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=ff00ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushant-Ravi14&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-<a href="mailto:utkarshkumarsingh491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/utkarshkumarsinghcg-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:sushant.ravi.cg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Sushant-Ravi14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/Sushant-Ravi_"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=ff00ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
 </div>
