@@ -1,77 +1,165 @@
-<!-- Profile README for Sushant Ravi -->
+<!-- ======================================= -->
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Sushant+Ravi;Full+Stack+Developer+in+Progress;Building+cool+things+with+code" />
+<!--        Sushant Ravi GitHub Profile      -->
+
+<!-- ======================================= -->
+
+<div align="center">
+
+# 👨‍💻 Sushant Ravi
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
+
+### 🚀 Full Stack Developer in Progress
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Sushant+Ravi;Learning+C%2B%2B+and+MERN+Stack;Building+Projects+Everyday;Future+Full+Stack+Developer"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-- **Name:** Sushant Ravi  
-- **Currently Learning:**  
-  - C++  
-  - MERN Stack (MongoDB, Express, React, Node.js)
+* **Name:** Sushant Ravi
+* **Currently Learning:**
 
-I enjoy building projects, exploring new technologies, and continuously improving my development skills.
+  * C++
+  * MERN Stack (MongoDB, Express, React, Node.js)
+
+💡 Passionate about building projects, exploring new technologies, and improving every day.
 
 ---
 
 # 🚀 Tech Stack
 
-## Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🎨 Frontend
 
-## Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge\&logo=tailwind-css)
 
-## Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+---
+
+## ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
+
+---
+
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge\&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify)
 ![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge)
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14\&show_icons=true\&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14\&layout=compact\&theme=tokyonight)
 
-# 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushant-Ravi14&theme=tokyo-night)
+</div>
 
 ---
 
-# 💻 LeetCode Stats (Dark Theme)
+# 🔥 GitHub Streak
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sushant-Ravi?theme=dark&font=baloo&ext=contest)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sushant-Ravi14\&theme=tokyonight)
+
+</div>
+
+---
+
+# 📈 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushant-Ravi14&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sushant-Ravi14&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🎮 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushant-Ravi14&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💻 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Sushant-Ravi?theme=dark&font=baloo&ext=heatmap"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email  
-sushant.ravi.cg@gmail.com  
+📧 **Email**
+[sushant.ravi.cg@gmail.com](mailto:sushant.ravi.cg@gmail.com)
 
-💻 GitHub  
-https://github.com/Sushant-Ravi14  
+💻 **GitHub**
+https://github.com/Sushant-Ravi14
 
-🧠 LeetCode  
-https://leetcode.com/Sushant-Ravi  
+🧠 **LeetCode**
+https://leetcode.com/Sushant-Ravi
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+# ⭐ Developer Quote
+
+> Code. Learn. Build. Repeat.
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
