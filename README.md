@@ -1,83 +1,96 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sushant+Ravi+%E2%80%8D%F0%9F%92%BB;Turning+Ideas+into+Code;Full+Stack+Developer" alt="Typing SVG" />
-  </a>
+
+# 👋 Hi, I'm Sushant Ravi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;C%2B%2B+Enthusiast;Building+Cool+Web+Apps" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 🚀 About Me
 
-- 🌱 I’m currently learning **C++** and diving deep into the **MERN stack**.
-- 💡 Passionate about building minimal, scalable, and user-friendly web applications.
-- 🚀 Always open to exploring new technologies and building cool projects.
-
----
-
-### 🛠️ Tech Stack
-
-<br>
-
-**Frontend** <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br><br>
-
-**Backend** <br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br><br>
-
-**Tools** <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-<br>
+💻 **Name:** Sushant Ravi  
+📚 **Currently Learning:** C++ and MERN Stack  
+🌱 Passionate about building web applications and improving problem solving skills.  
+⚡ I enjoy learning new technologies and building cool projects.
 
 ---
 
-### 📈 GitHub Stats
+# 🛠 Tech Stack
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushant-Ravi14&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="85%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
 ---
 
-### 🚀 LeetCode Tracker
+# 🔥 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sushant-Ravi?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushant-Ravi14&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
-### 📬 Connect with Me
+# 💻 LeetCode Progress
 
 <div align="center">
-  <a href="mailto:sushant.ravi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Sushant-Ravi14">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/Sushant-Ravi">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
+
+<img src="https://leetcard.jacoblin.cool/Sushant-Ravi?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushant.ravi.cg@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant-Ravi14)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Sushant-Ravi)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *"Code. Learn. Build. Repeat."* ✨
+
 </div>
