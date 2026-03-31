@@ -25,7 +25,7 @@
 
 # 🚀 Tech Stack
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠 Other Tools & Technologies
+## 🛠 Other Tools
 
 <div align="center">
 
