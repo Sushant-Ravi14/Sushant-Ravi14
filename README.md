@@ -42,7 +42,7 @@
 
 # 🚀 Tech Stack
 
-## 🎨 Frontend
+##  Frontend
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## ⚙️ Backend
+##  Backend
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🛠 Tools
+##  Tools
 
 <div align="center">
 
