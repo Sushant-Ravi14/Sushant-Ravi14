@@ -10,6 +10,8 @@
 
 </div>
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
+
 ---
 
 # 👋 About Me
