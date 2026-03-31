@@ -27,6 +27,19 @@
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sushant.ravi.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-sushant-ravi.vercel.app/">
+    <img src="https://camo.githubusercontent.com/472c274944c2beb9e4bef760baa9337010ce97eeda24083103badea3b2199b3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d7768697465" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 # 🚀 Tech Stack
 
 ## 🎨 Frontend
