@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sushant%20Ravi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# 👨‍💻 Sushant Ravi
-
-### 🚀 Future Full Stack Developer
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Sushant+Ravi;Learning+C%2B%2B+and+MERN+Stack;Building+Projects+Everyday;Future+Full+Stack+Developer"/>
 
 <br>
