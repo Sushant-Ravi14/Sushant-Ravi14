@@ -27,7 +27,7 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:sushant.ravi.cg@gmail.com">
