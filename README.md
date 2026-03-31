@@ -92,26 +92,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sushant-Ravi14&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 💻 LeetCode Stats
 
 <div align="center">
@@ -119,19 +99,6 @@
 <img src="https://leetcard.jacoblin.cool/Sushant-Ravi?theme=dark&font=baloo&ext=heatmap"/>
 
 </div>
-
----
-
-# 🌐 Connect With Me
-
-📧 **Email**
-[sushant.ravi.cg@gmail.com](mailto:sushant.ravi.cg@gmail.com)
-
-💻 **GitHub**
-https://github.com/Sushant-Ravi14
-
-🧠 **LeetCode**
-https://leetcode.com/Sushant-Ravi
 
 ---
 
