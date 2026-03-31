@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
