@@ -16,10 +16,10 @@
 
 💡 Passionate developer focused on building real projects and improving daily.
 
-• 🌱 Currently learning **C++ and MERN Stack**
-• 💻 Interested in **Full Stack Development**
-• 🚀 Love building **scalable web applications**
-• 📚 Always exploring **new technologies**
+• 🌱 Currently learning **C++ and MERN Stack** <br>
+• 💻 Interested in **Full Stack Development** <br>
+• 🚀 Love building **scalable web applications** <br>
+• 📚 Always exploring **new technologies** <br>
 
 ---
 
