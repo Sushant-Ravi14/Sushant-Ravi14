@@ -1,8 +1,13 @@
-<h1 align="center" style="color: #FF0000;">Aspiring Full Stack Developer</h1>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-FF0000?style=for-the-badge" alt="Open to Opportunities" />
-  <img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&color=FF0000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-5611804d-1f65-4fce-b248-c878988cb62b.gif" width="250" alt="Developer Coding GIF" />
+  
+  <h1 style="color: #FF0000;">Hi there 👋, I'm Sushant Ravi</h1>
+  <h3>Aspiring Full Stack Developer</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-FF0000?style=for-the-badge" alt="Open to Opportunities" />
+    <img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&color=FF0000&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 ---
@@ -90,3 +95,12 @@
   <i>🌟 If you like my work, consider giving a star to my repositories!</i><br><br>
   <a href="https://github.com/Sushant-Ravi14?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20MY%20REPOS-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="View Repos"></a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQ5emQyaGZyMW5xcHpoNWZ0YW9wdGZzNDgwcHUxeGJjZHgxdGg1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Coding Footer GIF" />
+  <h3 style="color: #FF0000;">Thanks for visiting my profile! 🚀</h3>
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer line divider" />
+</div>
