@@ -68,22 +68,19 @@
 
 <img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
 
-<br>
-
----
+<br><br>
 
 ### Backend & Database
 
 <img align="left" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
-<br>
----
+<br><br>
 
 ### Languages & Tools
 
 <img align="left" src="https://skillicons.dev/icons?i=c,cpp,python,git,github,figma,postman,npm,vercel,netlify&theme=dark"/>
 
-<br>
+<br><br>
 ---
 
 # 🔥 GitHub Streak
