@@ -101,16 +101,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 💻 LeetCode Stats
 
 <div align="center">
