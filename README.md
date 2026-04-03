@@ -124,7 +124,10 @@
 
 <div align="center">
 
-> <div>**Code. Learn. Build. Repeat. 🚀**</div>
+> <div>Code. Learn. Build. Repeat. </div>
+
+<br><br><br>
+
 > <div><img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></div>
 
 </div>
