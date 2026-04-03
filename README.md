@@ -1,143 +1,115 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hi 👋, I'm Sushant Ravi
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | MERN | AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sushant%20Ravi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Sushant+Ravi;Learning+C%2B%2B+and+MERN+Stack;Building+Projects+Everyday;Future+Full+Stack+Developer"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 About Me
+
+💡 Passionate about building projects and learning modern technologies.
+
+* 🎓 Learning **C++ and MERN Stack**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Building projects every day
+* 💻 Goal: Become a **Full Stack Developer**
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-<a href="https://portfolio-sushant-ravi.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=PROFILE+VIEWS&color=00A6FF&style=for-the-badge"/>
-
+  <a href="mailto:sushant.ravi.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-sushant-ravi.vercel.app/">
+    <img src="https://camo.githubusercontent.com/472c274944c2beb9e4bef760baa9337010ce97eeda24083103badea3b2199b3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d7768697465" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 Tech Stack
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+##  Frontend
 
-• 🎓 Pursuing **B.E. in Computer Engineering** at **Swaminarayan University, Gujarat**
+<div align="center">
 
-• 💻 Aspiring **Full Stack Developer specializing in the MERN Stack**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
 
-• 🎨 Strong focus on **UI/UX design and clean interfaces**
-
-• 🚀 Love building **scalable and performant web applications**
-
-• 🤝 Enjoy **collaborating with teams to create impactful products**
-
-• 🧠 Actively practicing **Data Structures & Algorithms on LeetCode**
+</div>
 
 ---
 
-# 🌐 Connect With Me
+##  Backend
 
-<p align="center">
+<div align="center">
 
-<a href="https://portfolio-sushant-ravi.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00A6FF?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
-<a href="mailto:sushant.ravi.cg@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🛠 Tech Stack
+##  Tools
 
-### 🚀 Frontend
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts"/>
-
-</p>
+</div>
 
 ---
 
-### ⚙ Backend & Database
+# 🔥 GitHub Streak
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"/>
+<img src="https://streak-stats.demolab.com?user=Sushant-Ravi14&theme=tokyonight"/>
 
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/REST_API-00A6FF?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-### 💻 Languages & Tools
+# 📊 Contribution Graph
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,figma,docker"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushant-Ravi14&theme=tokyo-night"/>
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=tokyonight&border_radius=10&title_color=00A6FF&icon_color=00A6FF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=tokyonight&title_color=00A6FF"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak Stats
+# 💻 LeetCode Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sushant-Ravi14&theme=tokyonight&ring=00A6FF&fire=00A6FF&currStreakLabel=00A6FF"/>
+<img src="https://leetcard.jacoblin.cool/Sushant-Ravi?theme=dark&font=baloo&ext=heatmap"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushant-Ravi14&theme=tokyo-night&color=00A6FF&line=00A6FF&point=FFFFFF"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 💎 Developer Quote
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
-
-</p>
+> Code. Learn. Build. Repeat.
 
 ---
 
-# ⭐ Support My Work
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
-If you like my work, consider giving a ⭐ to my repositories!
-
-</p>
-
----
+</div>
