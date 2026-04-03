@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sushant%20Ravi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sushant%20Ravi&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Sushant+Ravi;Learning+C%2B%2B+and+MERN+Stack;Building+Projects+Everyday;Future+Full+Stack+Developer"/>
-
-<br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
-
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Sushant+Ravi;MERN+Stack+Developer;Building+Projects+Everyday;Backend+%26+System+Design+Enthusiast"/>
 
 <img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -16,59 +10,86 @@
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-💡 Passionate about building projects and learning modern technologies.
+<table>
+<tr>
+<td width="55%">
 
-* 🎓 Learning **C++ and MERN Stack**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🚀 Building projects every day
-* 💻 Goal: Become a **Full Stack Developer**
+🎓 **Pursuing Bachelor of Engineering in Computer Engineering**
+
+🏫 **Swaminarayan University, Gujarat**
+
+💻 **Aspiring Full Stack Developer specializing in MERN**
+
+⚡ Passionate about **Backend Systems & Scalable Applications**
+
+🚀 Interested in **System Design & Performance Optimization**
+
+🧠 Strong in **Data Structures & Algorithms**
+
+🤝 Love collaborating on **innovative & open-source projects**
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:sushant.ravi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://portfolio-sushant-ravi.vercel.app/">
-    <img src="https://camo.githubusercontent.com/472c274944c2beb9e4bef760baa9337010ce97eeda24083103badea3b2199b3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d7768697465" alt="Portfolio" />
-  </a>
+
+<a href="mailto:sushant.ravi.cg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-sushant-ravi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sushant-Ravi14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
 # 🚀 Tech Stack
 
-##  Frontend
+### Frontend
 
-<div align="center">
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
-
-</div>
+<br><br><br><br>
 
 ---
 
-##  Backend
+### Backend & Database
 
-<div align="center">
+<img align="left" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+<br>
 
-</div>
+<img align="left" src="https://img.shields.io/badge/REST_API-ff6c37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<br><br>
 
 ---
 
-##  Tools
+### Languages & Tools
 
-<div align="center">
+<img align="left" src="https://skillicons.dev/icons?i=c,cpp,python,git,github,figma,postman,npm,vercel,netlify&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify&theme=dark"/>
-
-</div>
+<br><br><br><br>
 
 ---
 
@@ -92,6 +113,16 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
 # 💻 LeetCode Stats
 
 <div align="center">
@@ -104,12 +135,16 @@
 
 # 💎 Developer Quote
 
-> Code. Learn. Build. Repeat.
+<div align="center">
+
+> **Code. Learn. Build. Repeat. 🚀**
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
 
 </div>
