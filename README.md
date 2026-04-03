@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-<table>
+<table bordre="0">
 <tr>
 <td width="55%">
 
