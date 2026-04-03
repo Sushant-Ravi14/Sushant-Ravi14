@@ -75,9 +75,6 @@
 ### Backend & Database
 
 <img align="left" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
-
-<br>
-
 <img align="left" src="https://img.shields.io/badge/REST_API-ff6c37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 
