@@ -1,27 +1,47 @@
 <div align="center">
 
-# 🚀 Hey, I'm Sushant Ravi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Swaraj%20Prajapati&fontSize=60&fontColor=ff2244&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=60&descColor=ff6677" width="100%"/>
 
-[![Open to Opportunities](https://img.shields.io/badge/🟢%20Open%20to-Opportunities-00FF88?style=for-the-badge&labelColor=0D1117)](mailto:sushant.ravi.cg@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sushant-Ravi14&style=for-the-badge&color=00FF88&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/Sushant-Ravi14)
+<!-- OPEN TO WORK BADGE -->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF2244&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Open+to+Opportunities;%F0%9F%9A%80+Aspiring+Full+Stack+Developer;%E2%9A%A1+MERN+Stack+Enthusiast;%F0%9F%92%AA+DSA+%26+Problem+Solver)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SwarajPrajapati2006&style=for-the-badge&color=dc143c&labelColor=0d0d0d)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/🔥_OPEN_TO-OPPORTUNITIES-dc143c?style=for-the-badge&labelColor=0d0d0d)](mailto:your@email.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coding GIF"/>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Pursuing **Bachelor of Engineering in Computer Engineering**
-* 🏫 Studying at **Swaminarayan University, Gujarat**
-* 💻 Aspiring **Full Stack Developer specializing in MERN**
-* ⚡ Passionate about **Backend Systems & Scalable Applications**
-* 🚀 Interested in **System Design & Performance Optimization**
-* 🧠 Strong in **Data Structures & Algorithms**
-* 🌐 Check out my **[Portfolio](https://portfolio-sushant-ravi.vercel.app/)**
-* 🤝 Love **collaborating on innovative & open-source projects**
-* 📫 Reach me at **sushant.ravi.cg@gmail.com**
+```javascript
+const swaraj = {
+  🎓 education : "BE Computer Engineering",
+             🏛️  university : "Swaminarayan Uni, Gujarat",
+  🚀 role     : "Aspiring Full Stack Dev",
+  🧩 stack    : ["MERN", "REST APIs", "JWT"],
+  ⚡ strength : ["DSA", "Problem Solving"],
+  🎨 passion  : ["Clean UI/UX", "Scalable Apps"],
+  🏋️ offCode  : "Gym & Bodybuilding",
+  📍 location : "Gujarat, India",
+};
+```
+
+- 🎓 Pursuing **B.E. in Computer Engineering** at Swaminarayan University, Gujarat
+- 🚀 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
+- 🏗️ Building **real-world scalable applications** & exploring **Advanced Backend & System Design**
+- 💡 Passionate about **clean UI/UX** & **performance optimization**
+- 💪 Strong in **DSA & Problem Solving** — actively grinding [LeetCode](https://leetcode.com/)
+- 🤝 Love collaborating and working in **team environments**
+- 🏋️ **Fun Fact:** When I'm not coding, I'm at the gym crushing fitness & bodybuilding goals!
 
 <br clear="right"/>
 
@@ -31,20 +51,22 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-sushant-ravi.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushant.ravi.cg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant-Ravi14)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2244?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajprajapati)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/swarajprajapati)
+[![GitHub](https://img.shields.io/badge/GitHub-dc143c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwarajPrajapati2006)
+[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swarajprajapati)
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
-
-### 🎨 Frontend
+## 🛠️ Tech Stack
 
 <div align="center">
 
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,31 +74,21 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
-
-### 🛠️ Backend & Database
-
-<div align="center">
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-dc143c?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-00FF88?style=for-the-badge&logo=fastapi&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-</div>
+![REST API](https://img.shields.io/badge/REST_API-FF2244?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### 🧰 Languages & Tools
-
-<div align="center">
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-dc143c?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -88,8 +100,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sushant-Ravi14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&rank_icon=github" width="49%" alt="Sushant's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Ravi14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=8" width="41%" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SwarajPrajapati2006&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=dc143c&icon_color=dc143c&title_color=ff2244&text_color=ffffff&rank_icon=github&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajPrajapati2006&layout=compact&theme=dark&bg_color=0d0d0d&border_color=dc143c&title_color=ff2244&text_color=ffffff" />
 
 </div>
 
@@ -99,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Ravi14&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="70%" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=SwarajPrajapati2006&theme=dark&background=0d0d0d&border=dc143c&ring=ff2244&fire=ff4444&currStreakNum=ff2244&sideNums=ffffff&currStreakLabel=dc143c&sideLabels=dc143c&dates=888888" width="70%" />
 
 </div>
 
@@ -109,79 +121,31 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushant-Ravi14&theme=github_dark" width="95%" alt="Contribution Activity"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushant-Ravi14&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushant-Ravi14&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushant-Ravi14&theme=github_dark" width="32%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarajPrajapati2006&bg_color=0d0d0d&color=ff2244&line=dc143c&point=ff4444&area=true&area_color=dc143c&border_color=dc143c&hide_border=false" width="95%"/>
 
 </div>
 
 ---
 
-## ⭐ Support My Work
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### If you find my projects useful, a ⭐ on my repositories means the world to me!
-
-[![Visit My Repositories](https://img.shields.io/badge/🚀%20View%20My%20Repositories-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/Sushant-Ravi14?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/🌐%20Check%20My%20Portfolio-00FF88?style=for-the-badge&labelColor=0D1117)](https://portfolio-sushant-ravi.vercel.app/)
+<img src="https://github-profile-trophy.vercel.app/?username=SwarajPrajapati2006&theme=radical&no-frame=true&margin-w=8&row=1&column=6" width="95%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sushant-Ravi14/Sushant-Ravi14/output/github-contribution-grid-snake.svg"/>
-</picture>
+### ⭐ If you like my work, consider giving a star to my repositories!
 
-</div>
+[![View My All Pins](https://img.shields.io/badge/🔗_View_My_All_Pins-dc143c?style=for-the-badge&logoColor=white)](https://github.com/SwarajPrajapati2006?tab=repositories)
 
-> 💡 **To enable the snake animation**, create `.github/workflows/snake.yml` in your profile repo with the content below:
+<br/>
 
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Sushant Ravi](https://portfolio-sushant-ravi.vercel.app/)**
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer&fontColor=0D1117)
+<!-- BOTTOM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&fontColor=ff2244&animation=fadeIn" width="100%"/>
 
 </div>
