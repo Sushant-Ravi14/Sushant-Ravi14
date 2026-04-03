@@ -10,9 +10,9 @@
 
 # 👨‍💻 About Me
 
-<table border="1px solid black">
+<table style="border: none;">
 <tr>
-<td width="55%">
+<td width="55%" style="border: none;">
 
 🎓 **Pursuing Bachelor of Engineering in Computer Engineering**
 
@@ -30,7 +30,7 @@
 
 </td>
 
-<td width="45%">
+<td width="45%" style="border: none;">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
