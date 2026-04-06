@@ -63,8 +63,8 @@
 # 🚀 Tech Stack
 
 <div align="center">
+  
 ### Frontend
-</div>
 
 <img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
 
@@ -79,6 +79,8 @@
 ### Languages & Tools
 
 <img align="left" src="https://skillicons.dev/icons?i=c,cpp,python,git,github,figma,postman,npm,vercel,netlify&theme=dark"/>
+
+</div>
 
 <br><br>
 ---
