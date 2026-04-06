@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Sushant+Ravi;MERN+Stack+Developer;Building+Projects+Everyday;Backend+%26+System+Design+Enthusiast"/>
 
+<br><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 ---
@@ -111,10 +115,6 @@
 <div align="center">
 
 Code. Learn. Build. Repeat. 
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sushant-Ravi14&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
